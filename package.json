@@ -1,0 +1,24 @@
+{
+  "name": "data-sink",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/finp/data-sink.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/finp/data-sink/issues"
+  },
+  "homepage": "https://github.com/finp/data-sink#readme",
+  "dependencies": {
+    "@aerogear/voyager-server": "^0.4.0",
+    "express": "^4.16.4",
+    "graphql": "^14.1.1"
+  }
+}
