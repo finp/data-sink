@@ -1,5 +1,6 @@
+//
 const express = require('express')
-//Include our server libraries
+//Include Voyager server libraries
 const { VoyagerServer, gql } = require('@aerogear/voyager-server')
 
 //Provide your graphql schema
